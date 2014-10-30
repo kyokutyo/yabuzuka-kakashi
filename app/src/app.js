@@ -2,7 +2,6 @@
 
 var ProductAdditionalInfo = React.createClass({
     render: function() {
-        console.log(this.props.prize);
         return (
             <div className="additional-info">
                 {this.props.prize}
