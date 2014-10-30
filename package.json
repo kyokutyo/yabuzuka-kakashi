@@ -1,0 +1,14 @@
+{
+  "name": "yabuzuka-kakashi",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 0.10.28"
+  },
+  "devDependencies": {
+    "coffee-script": "1.8.0",
+    "gulp": "3.8.6",
+    "gulp-react": "1.0.2",
+    "gulp-webserver": "0.8.4",
+    "gulp-load-plugins": "^0.5.1"
+  }
+}
