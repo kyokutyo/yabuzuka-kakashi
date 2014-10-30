@@ -16,7 +16,7 @@ var Product = React.createClass({
         var alt = this.props.product_name + ' by ' + this.props.name;
         var additional_info = '';
         if(this.props.prize) {
-            additinal_info = <ProductAdditionalInfo prize={this.props.prize} />
+            additional_info = <ProductAdditionalInfo prize={this.props.prize} />
         }
         return (
             <div className="product">
