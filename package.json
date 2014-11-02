@@ -6,9 +6,9 @@
   },
   "devDependencies": {
     "coffee-script": "^1.8.0",
+    "browser-sync": "^0.9.1",
     "gulp": "^3.8.6",
     "gulp-react": "^1.0.2",
-    "gulp-webserver": "^0.8.4",
     "gulp-load-plugins": "^0.5.1"
   }
 }
